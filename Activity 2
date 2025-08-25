@@ -220,4 +220,10 @@ PING COMMAND
   -ping - send ICMP ECHO_REQUEST to network hosts
 
 TRACEROUTE COMMAND
-  -
+  -Traces the path packets take to reach a destination
+
+NMAP COMMAND
+  -Network mapper tool used for scanning networks, finding open ports, services, and sometimes OS detection.
+
+MKDIR COMMAND
+  -creates a new directory
